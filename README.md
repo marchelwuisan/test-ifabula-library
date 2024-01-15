@@ -4,21 +4,21 @@
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/marchelwuisan/test-ifabula-library.git
-    ```
+   ```bash
+   git clone https://github.com/marchelwuisan/test-ifabula-library.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd test-ifabula-library
-    ```
+   ```bash
+   cd test-ifabula-library
+   ```
 
 3. Install dependencies using Yarn:
 
-    ```bash
-    yarn install
-    ```
+   ```bash
+   yarn install
+   ```
 
 ## Usage
 
