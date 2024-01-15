@@ -33,6 +33,6 @@ yarn start
 Use this account to access the Admin Dashboard:
 
 ```bash
-email: adming@gmail.com
+email: admin@gmail.com
 password: Admin1234
 ```
