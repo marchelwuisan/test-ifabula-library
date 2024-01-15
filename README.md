@@ -26,3 +26,13 @@ After successfully installing the dependencies, you can run the project using th
 
 ```bash
 yarn start
+```
+
+## Account
+
+Use this account to access the Admin Dashboard:
+
+```bash
+email: adming@gmail.com
+password: Admin1234
+```
