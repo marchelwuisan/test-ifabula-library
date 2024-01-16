@@ -73,6 +73,7 @@ const BookManagement = () => {
 
       await updateDoc(returnedBook, {
         userId: null,
+        borrowedBy: null,
       });
 
       notify(`${bookSnapshot.data().title} Returned`);
